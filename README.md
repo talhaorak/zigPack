@@ -1,2 +1,2 @@
-# zigPack
-zigPack is a compression utility
+# zigsPack
+zigsPack is a compression utility
